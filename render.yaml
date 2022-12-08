@@ -5,4 +5,4 @@ services:
     repo: https://github.com/kx3ez3/kasmweb-ubutnu-1.git
     envVars:
     - key: PORT
-      value: 6901
+      value: 9000
